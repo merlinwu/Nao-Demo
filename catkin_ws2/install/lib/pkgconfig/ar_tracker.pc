@@ -1,0 +1,8 @@
+prefix=/home/michele/catkin_ws/install
+
+Name: ar_tracker
+Description: Description of ar_tracker
+Version: 0.0.0
+Cflags: -I/home/michele/catkin_ws/install/include
+Libs: -L/home/michele/catkin_ws/install/lib 
+Requires: 

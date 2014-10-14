@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ltl3")
+set(ltl3_MAINTAINER "reconfig2 <reconfig2@todo.todo>")
+set(ltl3_DEPRECATED "")
+set(ltl3_VERSION "0.0.0")
+set(ltl3_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(ltl3_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(ltl3_BUILDTOOL_DEPENDS "catkin")

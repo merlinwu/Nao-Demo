@@ -1,0 +1,19 @@
+		/
+		A SetActivity
+		[
+			{*
+				A KnowsActivity
+				A SayWhatYouWant					
+			} 
+			/
+				[
+					A IsActivitySit
+					A SitDown
+				]
+				[
+					A IsActivityDance
+					A RunMovTracker
+				]
+			|		
+		]
+		|

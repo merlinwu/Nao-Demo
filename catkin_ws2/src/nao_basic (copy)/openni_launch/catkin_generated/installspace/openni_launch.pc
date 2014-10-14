@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: openni_launch
+Description: Description of openni_launch
+Version: 1.9.5
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

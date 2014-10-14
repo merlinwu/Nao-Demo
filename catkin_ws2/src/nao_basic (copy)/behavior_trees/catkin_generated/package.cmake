@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "behavior_trees")
+set(behavior_trees_MAINTAINER "marzinotto <marzinotto@todo.todo>")
+set(behavior_trees_DEPRECATED "")
+set(behavior_trees_VERSION "0.0.0")
+set(behavior_trees_BUILD_DEPENDS "actionlib" "actionlib_msgs" "message_generation" "roscpp" "roslib" "rospy" "std_msgs")
+set(behavior_trees_RUN_DEPENDS "actionlib" "actionlib_msgs" "message_generation" "roscpp" "roslib" "rospy" "std_msgs")
+set(behavior_trees_BUILDTOOL_DEPENDS "catkin")
