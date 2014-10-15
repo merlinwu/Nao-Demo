@@ -1,0 +1,19 @@
+(cl:defpackage behavior_trees-msg
+  (:use )
+  (:export
+   "<ROSRESULT>"
+   "ROSRESULT"
+   "<ROSFEEDBACK>"
+   "ROSFEEDBACK"
+   "<ROSACTIONFEEDBACK>"
+   "ROSACTIONFEEDBACK"
+   "<ROSACTIONGOAL>"
+   "ROSACTIONGOAL"
+   "<ROSACTIONRESULT>"
+   "ROSACTIONRESULT"
+   "<ROSACTION>"
+   "ROSACTION"
+   "<ROSGOAL>"
+   "ROSGOAL"
+  ))
+

@@ -1,0 +1,8 @@
+prefix=/home/michele/catkin_ws/devel
+
+Name: nao_basic
+Description: Description of nao_basic
+Version: 0.0.0
+Cflags: -I/home/michele/catkin_ws/devel/include -I/home/michele/catkin_ws/src/nao_basic/include -I/usr/include
+Libs: -L/home/michele/catkin_ws/devel/lib -l:/usr/lib/libboost_system-mt.so -l:/usr/lib/libboost_thread-mt.so -l:/usr/lib/libboost_program_options-mt.so
+Requires: 

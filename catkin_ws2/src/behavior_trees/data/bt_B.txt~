@@ -1,0 +1,39 @@
+		/
+		A SetActivity
+		[
+			{*
+				A KnowsActivity
+				A SayWhatYouWant					
+			} 
+			/
+				[
+					A IsActivityPicture
+					A RunPictureGame
+				]
+				[
+					A IsActivitySit
+					A SitDown
+				]
+				[
+					A IsActivityStand
+					A StandUp
+				]
+				[
+					A IsActivityGoodbye
+					A SayGoodbye
+				]
+				[
+					A IsActivitySound
+					A RunMovTracker
+				]
+				[
+					A IsActivityEyes
+					A RunMovTracker
+				]
+				[
+					A IsActivitySleep
+					A RunSleep
+				]
+			|	
+		]
+		|

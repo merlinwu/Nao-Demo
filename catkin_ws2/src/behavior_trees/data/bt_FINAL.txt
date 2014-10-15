@@ -1,0 +1,87 @@
+{
+	[	A BatteryLevel
+		/
+			A SayRechargeMe
+			A SitDown
+		|
+	]
+	[	A TemperatureLevel
+		/
+			A SayHot
+			A SitDown
+		|
+	]
+	[	A Bumpers
+		/
+			A SayFoot
+			A BackUp
+		|
+	]
+		/
+		A SetActivity
+		[
+			{*
+				A KnowsActivity
+				A SayWhatYouWant					
+			} 
+			/
+				[
+					A IsActivityPicture
+					[*
+					A RunPictureGame
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivitySit
+					[*
+					A SitDown
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivityStand
+					[*
+					A StandUp
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivityGoodbye
+					[*
+					A SayGoodbye
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivitySound
+					[*
+					A RunMovTracker
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivityEyes
+					[*
+					A RunMovTracker
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivitySleep
+					[*
+					A RunSleep
+					A ResetActivity
+					]
+				]
+				[
+					A IsActivityDance
+					[*
+					A RunMovTracker
+					A ResetActivity
+					]
+				]
+			|		
+		]
+		|
+}
