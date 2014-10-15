@@ -1,8 +1,0 @@
-prefix=/home/michele/catkin_ws/src/devel
-
-Name: openni_launch
-Description: Description of openni_launch
-Version: 1.9.5
-Cflags: 
-Libs: -L/home/michele/catkin_ws/src/devel/lib 
-Requires: 

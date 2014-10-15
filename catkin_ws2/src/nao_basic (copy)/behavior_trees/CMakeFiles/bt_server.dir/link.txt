@@ -1,2 +1,0 @@
-/usr/bin/ar cr ../devel/lib/libbt_server.a  CMakeFiles/bt_server.dir/src/client/rosaction.cpp.o
-/usr/bin/ranlib ../devel/lib/libbt_server.a

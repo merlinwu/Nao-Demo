@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "nao_basic")
-set(nao_basic_MAINTAINER "marzinotto <marzinotto@todo.todo>")
-set(nao_basic_DEPRECATED "")
-set(nao_basic_VERSION "0.0.0")
-set(nao_basic_BUILD_DEPENDS "actionlib" "actionlib_msgs" "message_generation" "roscpp" "roslib" "rospy" "std_msgs" "behavior_trees")
-set(nao_basic_RUN_DEPENDS "actionlib" "actionlib_msgs" "message_generation" "roscpp" "roslib" "rospy" "std_msgs" "behavior_trees")
-set(nao_basic_BUILDTOOL_DEPENDS "catkin")

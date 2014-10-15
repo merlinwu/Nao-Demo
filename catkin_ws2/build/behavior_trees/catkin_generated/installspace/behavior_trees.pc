@@ -1,8 +1,0 @@
-prefix=/home/michele/catkin_ws/install
-
-Name: behavior_trees
-Description: Description of behavior_trees
-Version: 0.0.0
-Cflags: -I/home/michele/catkin_ws/install/include -I/usr/include
-Libs: -L/home/michele/catkin_ws/install/lib -lbt_server -l:/usr/lib/libboost_system-mt.so -l:/usr/lib/libboost_thread-mt.so -l:/usr/lib/libboost_program_options-mt.so
-Requires: actionlib actionlib_msgs message_generation roscpp roslib rospy std_msgs

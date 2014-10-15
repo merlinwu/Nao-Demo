@@ -1,9 +1,0 @@
-/
-    A BallTrackerRed
-
-	[*
-	        A Walker
-	        A HandMover
-		A BallThrower
-	]
-|

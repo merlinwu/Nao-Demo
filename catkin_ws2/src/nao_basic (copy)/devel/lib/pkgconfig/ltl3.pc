@@ -1,8 +1,0 @@
-prefix=/home/reconfig2/catkin_ws/src/nao_basic/devel
-
-Name: ltl3
-Description: Description of ltl3
-Version: 0.0.0
-Cflags: -I/home/reconfig2/catkin_ws/src/nao_basic/devel/include
-Libs: -L/home/reconfig2/catkin_ws/src/nao_basic/devel/lib 
-Requires: 

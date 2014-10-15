@@ -1,3 +1,0 @@
-[*
-	A action_name
-]

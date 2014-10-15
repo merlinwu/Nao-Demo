@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: ar_tracker
-Description: Description of ar_tracker
-Version: 0.0.0
-Cflags: -I/usr/local/include
-Libs: -L/usr/local/lib 
-Requires: 

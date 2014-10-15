@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "ar_tracker")
-set(ar_tracker_MAINTAINER "marzinotto <marzinotto@todo.todo>")
-set(ar_tracker_DEPRECATED "")
-set(ar_tracker_VERSION "0.0.0")
-set(ar_tracker_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "tf")
-set(ar_tracker_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "tf")
-set(ar_tracker_BUILDTOOL_DEPENDS "catkin")

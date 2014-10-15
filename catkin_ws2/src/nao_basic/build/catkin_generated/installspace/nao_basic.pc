@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: nao_basic
-Description: Description of nao_basic
-Version: 0.0.0
-Cflags: -I/usr/local/include -I/usr/include
-Libs: -L/usr/local/lib -l:/usr/lib/libboost_system-mt.so -l:/usr/lib/libboost_thread-mt.so -lpthread -l:/usr/lib/libboost_program_options-mt.so
-Requires: 
