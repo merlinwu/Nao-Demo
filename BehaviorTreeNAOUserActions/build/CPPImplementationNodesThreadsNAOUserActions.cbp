@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="CPPImplementationNodesThreadsNAOUserActions" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\home\;CMake Files\..\..\..\..\..\..\..\home\parallels\;CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\;CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\;CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\;CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\;CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\;CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="CPPImplementationNodesThreadsNAOUserActions">
+         <Option output="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build/sdk/bin/CPPImplementationNodesThreadsNAOUserActions" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/include" />
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/include/alsoap" />
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/include/soap" />
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/lib" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Headers" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Headers/Actions" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Headers/Conditions" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Sources" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Sources/Actions" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Sources/Conditions" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 CPPImplementationNodesThreadsNAOUserActions" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="CPPImplementationNodesThreadsNAOUserActions/fast">
+         <Option output="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build/sdk/bin/CPPImplementationNodesThreadsNAOUserActions" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/include" />
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/include/alsoap" />
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/include/soap" />
+            <Add directory="/home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/lib" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Headers" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Headers/Actions" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Headers/Conditions" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Sources" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Sources/Actions" />
+            <Add directory="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/./Sources/Conditions" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 CPPImplementationNodesThreadsNAOUserActions/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/psf/Home/Documents/Master\ Thesis/Behavior\ Trees/CPPImplementationNodesThreadsNAOUserActions/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/ActionNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Actions/BackOffNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Actions/CrouchNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Actions/MoveNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Actions/SetActivityNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Actions/SpeakNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Actions/StandUpNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/BehaviorTree.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/ConditionNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Conditions/IsCrouchNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Conditions/IsMoveNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Conditions/IsStandUpNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Conditions/KnowWhatToDoNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Conditions/NewUserCommandNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Conditions/ToeBumperPressedNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/ControlNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/Exceptions.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/LeafNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/NodeSemaphore.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/ParallelNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/SelectorNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/SequenceNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Sources/TreeNode.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/main.cpp">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/ActionNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Actions/BackOffNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Actions/CrouchNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Actions/MoveNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Actions/SetActivityNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Actions/SpeakNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Actions/StandUpNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/BehaviorTree.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/ConditionNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Conditions/IsCrouchNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Conditions/IsMoveNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Conditions/IsStandUpNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Conditions/KnowWhatToDoNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Conditions/NewUserCommandNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Conditions/ToeBumperPressedNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/ControlNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Exceptions.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/Include.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/LeafNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/NAO.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/NodeSemaphore.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/ParallelNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/SelectorNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/SequenceNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/Headers/TreeNode.h">
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/qibuild-config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/general.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/log.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/set.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/subdirectory.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/find.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/flags.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/tests.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/install.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/target.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/submodule.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/stage.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/option.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/layout.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/install.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/glob.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/autostrap.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/stage.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/uselib.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+      <Unit filename="/media/psf/Home/Documents/Master Thesis/Behavior Trees/CPPImplementationNodesThreadsNAOUserActions/../../../../../../../home/parallels/naoqi/naoqi-sdk-1.14.5-linux64/share/cmake/qibuild/internal/list.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\..\home\parallels\naoqi\naoqi-sdk-1.14.5-linux64\share\cmake\qibuild\internal\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
